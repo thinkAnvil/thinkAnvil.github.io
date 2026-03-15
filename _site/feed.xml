@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Hammer &amp; Anvil!!</title>
   <subtitle>Java, Spring Boot</subtitle>
-  <updated>2026-03-13T16:54:17+09:00</updated>
+  <updated>2026-03-13T22:33:38+09:00</updated>
   <author>
     <name>thinkAnvil</name>
     <uri>http://localhost:4000/</uri>
@@ -38,7 +38,7 @@
     
   
 
-  <summary>thinkAnvil 블로그를 Chirpy 테마로 시작합니다.</summary>
+  <summary>thinkAnvil 블로그를 Chirpy 테마로 시작합니다.  int a = 1;</summary>
 
   </entry>
 
